@@ -1,2 +1,3 @@
-Local File push
-git remote add <url>C:\Users\Palash Doshi\AppData\Local\Programs\Microsoft VS Code
+Local File push from cmd using git add. , git commit -m " <message>"
+git remote add <url> https://github.com/Palash-Doshi-Git/lab9-demo.git
+Local file push again from VS Code
