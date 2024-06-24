@@ -1,0 +1,2 @@
+Local File push
+git remote add <url>C:\Users\Palash Doshi\AppData\Local\Programs\Microsoft VS Code
