@@ -1,3 +1,6 @@
 Local File push from cmd using git add. , git commit -m " <message>"
 git remote add <url> https://github.com/Palash-Doshi-Git/lab9-demo.git
 Local file push again from VS Code
+
+created a branch dev and
+Added text directly through gitHub 
